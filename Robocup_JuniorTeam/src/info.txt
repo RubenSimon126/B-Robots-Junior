@@ -1,0 +1,3 @@
+Motor: FIT0522
+white(floor) black silver blue red
+as7341 den 2. auf digitalen i2c (2 gpios)
